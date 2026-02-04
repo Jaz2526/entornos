@@ -1,7 +1,7 @@
 import java.util.Scanner;
-
 public class Principal {
     public static void main(String[] args) {
+        System.out.println("Hola mundo");
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Número de usuarios: ");
